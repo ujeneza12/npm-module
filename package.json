@@ -1,0 +1,27 @@
+{
+  "name": "divine_simple_calc",
+  "version": "1.0.0",
+  "description": "This module is for performing simple operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ujeneza12/npm-module.git"
+  },
+  "keywords": [
+    "divine",
+    "rca",
+    "calculator",
+    "operations",
+    "classof2022",
+    "rwanda"
+  ],
+  "author": "Ujeneza Divine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ujeneza12/npm-module/issues"
+  },
+  "homepage": "https://github.com/ujeneza12/npm-module#readme"
+}
